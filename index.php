@@ -42,6 +42,8 @@ echo <<< HTML
             <div id="teacher_name">Teacher Name: </div>
             <div id="time_space">Course Time: </div>
             <div id="course_number">Course Number: </div>
+            <br>
+            <button id="SelectDialog" onclick="location.reload(true)">Other Course</button>
          </div>
 
          <!-- Textbox input -->
